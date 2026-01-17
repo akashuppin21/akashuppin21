@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**akashuppin21/akashuppin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+**Mechanical Engineer | Algorithmic Trader | Python Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Bachelor of Engineering (BE)
+- 💼 Former R&D Engineer at **Mercedes Benz** (2.5 years)
+- 📈 Active trader with **4+ years** of experience in Indian stock markets
+- 🤖 Specialized in **trading automation** and **quantitative strategies**
+- 🐍 Proficient in **Python**, **Data Analysis**, and **System Design**
+
+## 💡 What I Do
+
+- Develop and backtest algorithmic trading strategies
+- Build automated trading systems using **Zerodha Kite API**
+- Analyze market data and create data-driven trading decisions
+- Focus on **contrarian intraday strategies** with proven results
+
+## 🔧 Technical Skills
+
+**Languages & Tools:**
+- Python (Pandas, NumPy, Matplotlib)
+- Trading APIs (Zerodha Kite, yfinance)
+- Git & GitHub
+- Data Analysis & Visualization
+- Backtesting Frameworks
+
+**Domain Expertise:**
+- Algorithmic Trading
+- Quantitative Analysis
+- Risk Management
+- Market Microstructure
+- Trading Automation
+
+## 🎯 Featured Project
+
+### [Algorithmic Trading Strategy - Contrarian Intraday System](https://github.com/YOUR_USERNAME/trading-strategy-backtest)
+
+A fully automated trading system that achieved **140% CAGR** over 7 years with a **Sharpe Ratio of 4.99**
+
+**Key Highlights:**
+- ₹100 → ₹88,777 (88,676% total return)
+- 63.62% win rate across 1,916 trading days
+- Automated execution via Zerodha Kite API
+- Rigorous backtesting with multiple validation methods
+
+[**→ View Project**](https://github.com/YOUR_USERNAME/trading-strategy-backtest)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+## 🌱 Currently Learning
+
+- Advanced machine learning for trading
+- Options strategies
+- Portfolio optimization techniques
+
+## 💼 Professional Goals
+
+Seeking opportunities in:
+- Quantitative Trading / Algorithmic Trading
+- Quantitative Research
+- Trading Systems Development
+- Financial Engineering
+
+## 📫 Let's Connect
+
+- **Email:** your.email@example.com
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Location:** Chennai, Tamil Nadu, India
+
+---
+
+⭐ **Open to opportunities in Quantitative Finance & Algorithmic Trading**
+
+*"Turning market inefficiencies into systematic profits through code"*
