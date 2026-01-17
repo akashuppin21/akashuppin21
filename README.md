@@ -35,7 +35,7 @@
 
 ## 🎯 Featured Project
 
-### [Algorithmic Trading Strategy - Contrarian Intraday System](https://github.com/YOUR_USERNAME/trading-strategy-backtest)
+### [Algorithmic Trading Strategy - Contrarian Intraday System](https://github.com/akashuppin21/trading-strategy-backtest)
 
 A fully automated trading system that achieved **140% CAGR** over 7 years with a **Sharpe Ratio of 4.99**
 
@@ -45,7 +45,7 @@ A fully automated trading system that achieved **140% CAGR** over 7 years with a
 - Automated execution via Zerodha Kite API
 - Rigorous backtesting with multiple validation methods
 
-[**→ View Project**](https://github.com/YOUR_USERNAME/trading-strategy-backtest)
+[**→ View Project**](https://github.com/akashuppin21/trading-strategy-backtest)
 
 
 ## 🌱 Currently Learning
