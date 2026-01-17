@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Akash Uppin 👋
 
 ## 🚀 About Me
 
@@ -53,8 +53,8 @@ A fully automated trading system that achieved **140% CAGR** over 7 years with a
 
 ## 🌱 Currently Learning
 
-- Advanced machine learning for trading
-- Options strategies
+- Machine learning for trading
+- Risk Mangement techniques
 - Portfolio optimization techniques
 
 ## 💼 Professional Goals
@@ -67,9 +67,9 @@ Seeking opportunities in:
 
 ## 📫 Let's Connect
 
-- **Email:** your.email@example.com
+- **Email:** akashtrash21@gmail.com
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Location:** Chennai, Tamil Nadu, India
+- **Location:** Bengaluru, Karnataka, India
 
 ---
 
