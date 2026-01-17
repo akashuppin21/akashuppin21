@@ -47,9 +47,6 @@ A fully automated trading system that achieved **140% CAGR** over 7 years with a
 
 [**→ View Project**](https://github.com/YOUR_USERNAME/trading-strategy-backtest)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 
