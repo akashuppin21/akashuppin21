@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-**Mechanical Engineer | Algorithmic Trader | Python Developer**
+**System Functionality Engineer | Algorithmic Trader | Python Developer**
 
 - 🎓 Bachelor of Engineering (BE)
 - 💼 Former R&D Engineer at **Mercedes Benz** (2.5 years)
