@@ -64,8 +64,8 @@ Seeking opportunities in:
 
 ## 📫 Let's Connect
 
-- **Email:** akashtrash21@gmail.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email:** uppingakash@gmail.com
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile
 - **Location:** Bengaluru, Karnataka, India
 
 ---
