@@ -37,11 +37,10 @@
 
 ### [Algorithmic Trading Strategy - Contrarian Intraday System](https://github.com/akashuppin21/trading-strategy-backtest)
 
-A fully automated trading system that achieved **140% CAGR** over 7 years with a **Sharpe Ratio of 4.99**
+A fully automated trading system that achieved **42% CAGR** over 5 years with a **Sharpe Ratio of 2.7**
 
 **Key Highlights:**
-- ₹100 → ₹88,777 (88,676% total return)
-- 63.62% win rate across 1,916 trading days
+- 63.62% win rate across 5yrs
 - Automated execution via Zerodha Kite API
 - Rigorous backtesting with multiple validation methods
 
