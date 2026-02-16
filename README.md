@@ -65,7 +65,7 @@ Seeking opportunities in:
 ## 📫 Let's Connect
 
 - **Email:** uppingakash@gmail.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile
+- **LinkedIn:** https://www.linkedin.com/in/akash-uppin-a383362b6/
 - **Location:** Bengaluru, Karnataka, India
 
 ---
